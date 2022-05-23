@@ -7,8 +7,8 @@
 
 <b><big><big>경북소프트웨어고 보안동아리</big></big></b><br />
 
-<a href="https://github.com/GBSWHS/.github/issues/new?assignees=pmh-only&labels=regist&template=regist.yml&title=%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD#new_issue"><img src="https://raw.githubusercontent.com/GBSWHS/.github/main/assets/regist.png" /></a>
-<a href="https://github.com/GBSWHS/.github#readme"><img src="https://raw.githubusercontent.com/GBSWHS/.github/main/assets/learn-more.png" /></a>
+<!-- <a href="https://github.com/GBSWHS/.github/issues/new?assignees=pmh-only&labels=regist&template=regist.yml&title=%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD#new_issue"><img src="https://raw.githubusercontent.com/GBSWHS/.github/main/assets/regist.png" /></a> -->
+<!-- <a href="https://github.com/GBSWHS/.github#readme"><img src="https://raw.githubusercontent.com/GBSWHS/.github/main/assets/learn-more.png" /></a> -->
 
 </div>
 
